@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "bienvenueauthehappyhelpers.html",
+    "currentPage": "bienvenuechezthehappyhelpers.html",
     "theme": {
       "name": "cleanm4",
       "title": "CleanM4",
@@ -8804,7 +8804,7 @@
         }
       ]
     },
-    "bienvenueauthehappyhelpers.html": {
+    "bienvenuechezthehappyhelpers.html": {
       "settings": {
         "title": "Bienvenue Chez The Happy Helpers",
         "meta_descr": "",
