@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "bienvenuechezthehappyhelpers.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "cleanm4",
       "title": "CleanM4",
@@ -68,7 +68,8 @@
     "mcShopcart": {
       "email": "info@thehappyhelpers.org",
       "currency": "USD"
-    }
+    },
+    "chatbutton": {}
   },
   "pages": {
     "index.html": {
