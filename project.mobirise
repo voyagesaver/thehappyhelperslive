@@ -63,7 +63,7 @@
     "uniqCompNum": 172,
     "versionPublish": "5.2.1",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "mbrsiteDomain": "xpslym7wke",
     "mcShopcart": {
       "email": "info@thehappyhelpers.org",
